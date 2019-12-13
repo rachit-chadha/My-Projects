@@ -1,8 +1,7 @@
-# iCalorie
+# iCalorie UX Project
 
 # https://myicalorie.weebly.com/
 
-UX Project
 
 ## How might we make the nutritional information of the food served at the UMD dining services more accessible/available?
 
